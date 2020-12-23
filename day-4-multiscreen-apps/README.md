@@ -12,3 +12,4 @@
 
 ### Resources
 - [Kotlin Playground](https://play.kotlinlang.org/)
+- [Motivational Video](https://youtu.be/pIvWpLgNWPA)
