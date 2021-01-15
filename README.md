@@ -5,7 +5,7 @@
 <h4 align="left"> Android Study Jams are community-organized study groups for people to learn how to build Android apps in the Kotlin programming language, using the curriculum provided by Google Developers. <h4>
 </p>
 
-[![session playlist](https://img.shields.io/badge/Session%20playlist-comming%20soon-orange?style=for-the-badge&logo=appveyor)]()
+[![session playlist](https://img.shields.io/badge/Session%20playlist-visit-orange?style=for-the-badge&logo=appveyor)](https://go.dsckiet.com/androidjams)
 
 ---
 
